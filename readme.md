@@ -43,6 +43,7 @@ Implementation:
 The screenshot of project:
 ![image](readme/screenshot1.png)
 ![image](readme/screenshot2.png)
+![image](readme/picture1.png)
 
 Forkify API documentation:  
 http://forkify-api.herokuapp.com/
